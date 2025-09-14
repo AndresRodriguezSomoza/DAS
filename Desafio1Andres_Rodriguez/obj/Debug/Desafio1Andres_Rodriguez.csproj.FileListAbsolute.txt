@@ -1,0 +1,11 @@
+C:\Users\Andres\source\repos\Desafio1Andres_Rodriguez\bin\Debug\Desafio1Andres_Rodriguez.exe.config
+C:\Users\Andres\source\repos\Desafio1Andres_Rodriguez\bin\Debug\Desafio1Andres_Rodriguez.exe
+C:\Users\Andres\source\repos\Desafio1Andres_Rodriguez\bin\Debug\Desafio1Andres_Rodriguez.pdb
+C:\Users\Andres\source\repos\Desafio1Andres_Rodriguez\obj\Debug\Desafio1Andres_Rodriguez.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\Desafio1Andres_Rodriguez\obj\Debug\Desafio1Andres_Rodriguez.frmLibros.resources
+C:\Users\Andres\source\repos\Desafio1Andres_Rodriguez\obj\Debug\Desafio1Andres_Rodriguez.Properties.Resources.resources
+C:\Users\Andres\source\repos\Desafio1Andres_Rodriguez\obj\Debug\Desafio1Andres_Rodriguez.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\Desafio1Andres_Rodriguez\obj\Debug\Desafio1Andres_Rodriguez.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Desafio1Andres_Rodriguez\obj\Debug\Desafio1Andres_Rodriguez.exe
+C:\Users\Andres\source\repos\Desafio1Andres_Rodriguez\obj\Debug\Desafio1Andres_Rodriguez.pdb
+C:\Users\Andres\source\repos\Desafio1Andres_Rodriguez\obj\Debug\Desafio1Andres_Rodriguez.frmUserAndBookLending.resources
